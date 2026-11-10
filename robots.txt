@@ -1,0 +1,39 @@
+# Robots de IA: prohibido usar este sitio para entrenar modelos o alimentar asistentes
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: anthropic-ai
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Bytespider
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: FacebookBot
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Diffbot
+User-agent: YouBot
+User-agent: MistralAI-User
+User-agent: DuckAssistBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Timpibot
+User-agent: omgili
+User-agent: ImagesiftBot
+User-agent: PetalBot
+User-agent: img2dataset
+User-agent: Scrapy
+Disallow: /
+
+# Buscadores normales (Google, Bing...): pueden mostrar la web en sus resultados
+User-agent: *
+Allow: /
