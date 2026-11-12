@@ -37,3 +37,6 @@ Disallow: /
 # Buscadores normales (Google, Bing...): pueden mostrar la web en sus resultados
 User-agent: *
 Allow: /
+
+# Mapa del sitio de ForeverLatam
+Sitemap: https://confluxgn.github.io/ForeverLatam/sitemap.xml
